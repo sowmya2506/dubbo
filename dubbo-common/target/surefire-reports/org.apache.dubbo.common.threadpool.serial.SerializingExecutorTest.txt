@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.dubbo.common.threadpool.serial.SerializingExecutorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.149 s - in org.apache.dubbo.common.threadpool.serial.SerializingExecutorTest

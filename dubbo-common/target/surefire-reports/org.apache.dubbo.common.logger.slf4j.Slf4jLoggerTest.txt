@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.dubbo.common.logger.slf4j.Slf4jLoggerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.22 s - in org.apache.dubbo.common.logger.slf4j.Slf4jLoggerTest

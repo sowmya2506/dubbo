@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.dubbo.common.extension.ExtensionDirectorTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.896 s - in org.apache.dubbo.common.extension.ExtensionDirectorTest

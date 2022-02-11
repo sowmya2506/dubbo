@@ -1,0 +1,9 @@
+/root/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/nativejava/NativeJavaObjectInput.java
+/root/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/nativejava/NativeJavaObjectOutput.java
+/root/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/CompactedJavaSerialization.java
+/root/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/CompactedObjectOutputStream.java
+/root/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/JavaObjectOutput.java
+/root/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/JavaObjectInput.java
+/root/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/nativejava/NativeJavaSerialization.java
+/root/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/JavaSerialization.java
+/root/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/CompactedObjectInputStream.java

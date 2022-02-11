@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.dubbo.metadata.definition.ServiceDefinitionBuilderTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.38 s <<< FAILURE! - in org.apache.dubbo.metadata.definition.ServiceDefinitionBuilderTest
+org.apache.dubbo.metadata.definition.ServiceDefinitionBuilderTest.testBuilderComplexObject  Time elapsed: 0.314 s  <<< ERROR!
+java.lang.NullPointerException
+	at org.apache.dubbo.metadata.definition.ServiceDefinitionBuilderTest.testBuilderComplexObject(ServiceDefinitionBuilderTest.java:38)
+
